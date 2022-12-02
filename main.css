@@ -1,0 +1,47 @@
+body{
+background-color: aqua;
+}
+.box{
+    max-width: 60%;
+    height: 90vh;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+}
+
+.title{
+    padding-top: 15px;
+    
+}
+#form{
+    text-align: center;
+}
+#text{
+    width: 70%;
+}
+.btnWrapper{
+    margin-top: 20px;
+}
+.listBox{
+    margin: 0 auto;
+}
+.list{
+    text-align: center;
+    height: 65vh;
+    border: 1px solid black;
+    border-radius: 10px;
+    list-style: none;
+    
+}
+.iteam{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px dashed black;
+}
+.iteamText{
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
